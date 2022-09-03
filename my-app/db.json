@@ -1,0 +1,88 @@
+{
+  "product": [
+    {
+      "title": "Lovali Essential",
+      "price": "250",
+      "description": "Factory Price Original Brand LOVALI ESSENTIAL MEN Perfume 100ML",
+      "id": 2
+    },
+    {
+      "title": "SKY Essential",
+      "price": "200",
+      "description": "\nOur point is to make standard and extravagance scent moderate .\n",
+      "id": 3
+    },
+    {
+      "title": "Fragrance Cologne",
+      "price": "300",
+      "description": "Cologne is usually an umbrella word for masculine in North America.",
+      "id": 4
+    },
+    {
+      "title": "Giordani Gold",
+      "price": "160",
+      "description": "Giordani Gold was created by Nathalie Feisthauer, Bernard Ellena. ",
+      "id": 5
+    },
+    {
+      "title": "Blue De",
+      "price": "500",
+      "description": "which is identified by the combination of aromatic herbs.",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": 123,
+      "role_id": 1,
+      "id": 1
+    },
+    {
+      "name": "dhruvi",
+      "email": "dhruvi@gmail.com",
+      "password": 111,
+      "role_id": 2,
+      "id": 2
+    },
+    {
+      "name": "yashvi",
+      "email": "yashvi@gmail.com",
+      "password": "111",
+      "role_id": 2,
+      "id": 3
+    },
+    {
+      "name": "amisha",
+      "email": "amisha@gmail.com",
+      "password": "111",
+      "role_id": 2,
+      "id": 4
+    },
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "password": "111",
+      "role_id": 2,
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
